@@ -1,8 +1,8 @@
 package Second;
 
 /**
- * Part I
- * @author Syed Ayaan Jilani ; 40209519
+ * 
+ * @author Syed Ayaan Jilani 
  */
 public class Quadcopter extends Helicopter {
 	
