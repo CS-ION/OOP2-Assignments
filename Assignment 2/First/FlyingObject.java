@@ -1,7 +1,6 @@
 package First;
 
 /**
- * Part I
  * @author Syed Ayaan Jilani
  */
 
