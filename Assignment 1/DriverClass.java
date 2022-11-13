@@ -1,21 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Syed Ayaan Jilani ; 40209519
- * COMP249
- * Assignment 1
- * 7th October 2022
- */
-
-//-----------------------------------------------------
-//Assignment 1 
-//COMP249
-//Question: Part II
-//Written by: Syed Ayaan Jilani ; 40209519
-//-----------------------------------------------------
-
-/**
- *@author Syed Ayaan Jilani ; 40209519
+ *@author Syed Ayaan Jilani
  */
 
  /*                                PROGRAM DESCRIPTION
