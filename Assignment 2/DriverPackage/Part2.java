@@ -7,8 +7,8 @@ import Fourth.UAV;
 import Fifth.*;
 
 /**
- * Part II
- * @author Syed Ayaan Jilani ; 40209519
+ * 
+ * @author Syed Ayaan Jilani 
  */
 public class Part2 {
 	
