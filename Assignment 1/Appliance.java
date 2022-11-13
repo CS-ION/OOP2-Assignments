@@ -1,18 +1,7 @@
-/**
- * Syed Ayaan Jilani ; 40209519
- * COMP249
- * Assignment 1
- * 7th October 2022
- */
 
-// -----------------------------------------------------
-// Assignment 1
-// Question: Part I
-// Written by: Syed Ayaan Jilani ; 40209519
-// -----------------------------------------------------
 
 /**
- *@author Syed Ayaan Jilani ; 40209519
+ *@author Syed Ayaan Jilani
  */
 
 /*
