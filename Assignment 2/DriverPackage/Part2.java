@@ -71,7 +71,7 @@ public class Part2 {
 		
 		System.out.println("The Flying objects in the original array are :- \n");
 		
-		for (Object element:array) {
+		for (FlyingObject element:array) {
 			System.out.println(element);
 		}
 		
@@ -81,7 +81,7 @@ public class Part2 {
 		
 		System.out.println("The Flying objects in the copy array are :- \n");
 		
-		for (Object element:copy) {
+		for (FlyingObject element:copy) {
 			System.out.println(element);
 		}
 
