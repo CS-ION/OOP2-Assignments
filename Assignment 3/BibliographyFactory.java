@@ -10,14 +10,7 @@ import java.io.FileReader;
 import java.util.StringTokenizer;
 
 /**
- * Mateo Nieto (40192918) and Syed Ayaan Jilani (40209519)
- * COMP249
- * Assignment 3 Part I
- * 7th October 2022
- */
-
-/**
- * @author Syed Ayaan Jilani (40209519) and Mateo Nieto (40192918)
+ * @author Syed Ayaan Jilani and Mateo Nieto
  *
  */
 public class BibliographyFactory {
