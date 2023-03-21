@@ -1,15 +1,7 @@
 /**
- * Mateo Nieto ; 40192918
- * Syed Ayaan Jilani ; 40209519
- * COMP249
- * Assignment 3 Part I
- * 7th October 2022
- */
-
-/**
  * An exception class that extends Exception which displays an error message when a file has an empty tag. 
  * 
- * @author Syed Ayaan Jilani (40209519) and Matteo Nietto (40192918)
+ * @author Syed Ayaan Jilani and Matteo Nietto
  */
 public class FileInvalidException extends Exception {
 	
